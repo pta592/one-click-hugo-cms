@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: pta592netlify-hugo-graphcms
+#  repo: pta592/netlify-hugo-graphcms
 
 publish_mode: editorial_workflow
 
